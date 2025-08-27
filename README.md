@@ -18,5 +18,5 @@ A FastAPI-based application that predicts insurance premiums using a trained mac
 
 ### 1. Clone the repository
 ```bash
-git clone <your-repo-link>
-cd insurance-premium-predictor-api
+git clone https://github.com/Khushi-Kumari947/Insurance_premium_prediction_api.git
+cd Insurance_premium_prediction_api
